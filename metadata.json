@@ -1,0 +1,6 @@
+{
+  "name": "喃喃 Murmur",
+  "description": "一个温润治愈的情绪自留地与心绪星河记录本。把心事轻轻放在这里，抚平疲惫，与远方的低语同频共振。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
